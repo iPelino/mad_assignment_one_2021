@@ -12,5 +12,5 @@ A few resources to help you on this Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-- [Flutter widgets](https://flutter.dev/docs/development/ui/widgets)
+- [Docs: Flutter widgets](https://flutter.dev/docs/development/ui/widgets)
 
