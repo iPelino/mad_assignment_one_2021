@@ -26,15 +26,12 @@ A few resources to help you on this Flutter project:
 - Add colors.dart file which will contain your individual color schemes for the application. 
   Refer to the links below.
 - Add restaurant_theme.dart file which will contain the app themes
-_ Style your app based on the themes, colors and fonts (google fonts) of your choice.
-_ Add a login screen that will be the entry screen of the app (refer to the code in the code labs)
-_ OPTIONAL (for those who wants to take the app a few steps further):
-    - Add a bottom navigation bar with at least four sections
-    - Add a details screen with so that when the user "taps" on the food card they can to the 
-      details screen 
+- Style your app based on the themes, colors and fonts (google fonts) of your choice.
+- Add a login screen that will be the entry screen of the app (refer to the code in the code labs)
+- OPTIONAL (for those who wants to take the app a few steps further):
+-   Add a bottom navigation bar with at least four sections
+-   Add a details screen with so that when the user "taps" on the food card they can to the details screen
     
-  
-
 ## Resources
 
 A few resources to help you on this Flutter project:
