@@ -23,6 +23,7 @@ A few resources to help you on this Flutter project:
   Restaurant app
 - Change the layouts Grid view
 - Add more food cards of your choice(at least 20)
+- Add search and filter icons on the AppBar
 - Add colors.dart file which will contain your individual color schemes for the application. 
   Refer to the links below.
 - Add restaurant_theme.dart file which will contain the app themes
